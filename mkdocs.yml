@@ -5,7 +5,7 @@ edit_uri: ''
 site_description: Sharing my learnings 
 site_author: Narayanan Arunachalam
 copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
-google_analytics: ['UA-........-.', 'narayaruna.github.io']
+google_analytics: ['UA-108097494-1', 'narayaruna.github.io']
 remote_branch: master
 
 strict: True
